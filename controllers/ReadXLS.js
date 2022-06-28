@@ -82,6 +82,7 @@ function validateData(data, valid_data, invalid_data, err) {
                 flag = false;
             }
         })
+        //saksjakj
         if (flag) {
             valid_data.push(row)
         } else {
